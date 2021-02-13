@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook MacBook Pro",
+      "price": 12000.89
+    },
+    {
+      "name": "Monitor 27 polegadas",
+      "price": "11200",
+      "id": 4
+    },
+    {
+      "name": "Monitor 27 polegadas",
+      "price": 1100,
+      "id": 5
+    },
+    {
+      "name": "Produto 1",
+      "price": "334",
+      "id": 6
+    },
+    {
+      "name": "Produto Teste 2",
+      "price": "33334",
+      "id": 7
+    },
+    {
+      "name": "Teste do Daniel",
+      "price": "9383.32",
+      "id": 8
+    }
+  ]
+}
